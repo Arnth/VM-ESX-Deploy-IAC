@@ -1,0 +1,5 @@
+vsphere_vcenter = "vcenter67.corp.vectorusa.com"
+vsphere_user = "administrator@vsphere.local"
+vsphere_password = "5p1nn!nG"
+vsphere_datacenter = "Vector CLT"
+vsphere_cluster = "AMD Cluster"
